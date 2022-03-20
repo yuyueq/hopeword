@@ -17,7 +17,7 @@ export const data = {
         "meta",
         {
           "property": "og:url",
-          "content": "https://vuepress-theme-hope-v2-demo.mrhope.site/category/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"
+          "content": "https://yuyueq.github.io/simpleread/category/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"
         }
       ],
       [

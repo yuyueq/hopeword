@@ -3,11 +3,11 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default defineThemeConfig({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  hostname: "https://yuyueq.github.io/simpleread",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "Yuyueq",
+    url: "https://www.yuyueq.cn",
   },
 
   themeConfig: {
@@ -17,7 +17,15 @@ export default defineThemeConfig({
       green: "#3eaf7c",
       orange: "#fb9b5f",
     },
-    pure:true
+    pure:true,
+    sidebar: {
+      "/posts/article/": [
+        "" /* /foo/ */,
+        "README" /* /foo/one.html */,
+        "two" /* /foo/two.html */,
+      ],
+    },
+
   },
 
 

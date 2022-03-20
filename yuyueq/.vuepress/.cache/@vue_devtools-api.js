@@ -2,7 +2,7 @@ import {
   isPerformanceSupported,
   now,
   setupDevtoolsPlugin
-} from "./chunk-37N7BWCD.js";
+} from "./chunk-ZWHYDNPM.js";
 import {
   init_define_ARTICLE_INFO_LOCALES,
   init_define_BACK_TO_TOP_LOCALES,

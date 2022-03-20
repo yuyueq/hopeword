@@ -11,6 +11,8 @@ export const pagesData = {
   "v-bf720700": () => import(/* webpackChunkName: "v-bf720700" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/guide/encrypt.html.js").then(({ data }) => data),
   // path: /guide/markdown.html
   "v-0978b044": () => import(/* webpackChunkName: "v-0978b044" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/guide/markdown.html.js").then(({ data }) => data),
+  // path: /guide/MySQL%E5%AE%9E%E6%88%9845%E8%AE%B2.html
+  "v-172abfb8": () => import(/* webpackChunkName: "v-172abfb8" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/guide/MySQL实战45讲.html.js").then(({ data }) => data),
   // path: /guide/page.html
   "v-4eaf9f84": () => import(/* webpackChunkName: "v-4eaf9f84" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/guide/page.html.js").then(({ data }) => data),
   // path: /guide/
@@ -23,6 +25,8 @@ export const pagesData = {
   "v-5deafbd7": () => import(/* webpackChunkName: "v-5deafbd7" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article12.html.js").then(({ data }) => data),
   // path: /posts/article9.html
   "v-7beb5be1": () => import(/* webpackChunkName: "v-7beb5be1" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article9.html.js").then(({ data }) => data),
+  // path: /guide/2021/mysql.html
+  "v-382e335d": () => import(/* webpackChunkName: "v-382e335d" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/guide/2021/mysql.html.js").then(({ data }) => data),
   // path: /posts/article/article1.html
   "v-03842690": () => import(/* webpackChunkName: "v-03842690" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article/article1.html.js").then(({ data }) => data),
   // path: /posts/article/article2.html
@@ -39,6 +43,8 @@ export const pagesData = {
   "v-0dc13a4a": () => import(/* webpackChunkName: "v-0dc13a4a" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article/article7.html.js").then(({ data }) => data),
   // path: /posts/article/article8.html
   "v-0f7612e9": () => import(/* webpackChunkName: "v-0f7612e9" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article/article8.html.js").then(({ data }) => data),
+  // path: /posts/article/
+  "v-0d1b1fee": () => import(/* webpackChunkName: "v-0d1b1fee" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /category/
@@ -75,4 +81,6 @@ export const pagesData = {
   "v-06bbb262": () => import(/* webpackChunkName: "v-06bbb262" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/tag/tag-a/index.html.js").then(({ data }) => data),
   // path: /tag/tag-b/
   "v-06bbb224": () => import(/* webpackChunkName: "v-06bbb224" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/tag/tag-b/index.html.js").then(({ data }) => data),
+  // path: /tag/%E6%94%B6%E8%97%8F/
+  "v-784186e8": () => import(/* webpackChunkName: "v-784186e8" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/tag/收藏/index.html.js").then(({ data }) => data),
 }

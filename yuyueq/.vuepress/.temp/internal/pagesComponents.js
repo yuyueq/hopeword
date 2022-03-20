@@ -13,6 +13,8 @@ export const pagesComponents = {
   "v-bf720700": defineAsyncComponent(() => import(/* webpackChunkName: "v-bf720700" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/guide/encrypt.html.vue")),
   // path: /guide/markdown.html
   "v-0978b044": defineAsyncComponent(() => import(/* webpackChunkName: "v-0978b044" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/guide/markdown.html.vue")),
+  // path: /guide/MySQL%E5%AE%9E%E6%88%9845%E8%AE%B2.html
+  "v-172abfb8": defineAsyncComponent(() => import(/* webpackChunkName: "v-172abfb8" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/guide/MySQL实战45讲.html.vue")),
   // path: /guide/page.html
   "v-4eaf9f84": defineAsyncComponent(() => import(/* webpackChunkName: "v-4eaf9f84" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/guide/page.html.vue")),
   // path: /guide/
@@ -25,6 +27,8 @@ export const pagesComponents = {
   "v-5deafbd7": defineAsyncComponent(() => import(/* webpackChunkName: "v-5deafbd7" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article12.html.vue")),
   // path: /posts/article9.html
   "v-7beb5be1": defineAsyncComponent(() => import(/* webpackChunkName: "v-7beb5be1" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article9.html.vue")),
+  // path: /guide/2021/mysql.html
+  "v-382e335d": defineAsyncComponent(() => import(/* webpackChunkName: "v-382e335d" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/guide/2021/mysql.html.vue")),
   // path: /posts/article/article1.html
   "v-03842690": defineAsyncComponent(() => import(/* webpackChunkName: "v-03842690" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article/article1.html.vue")),
   // path: /posts/article/article2.html
@@ -41,6 +45,8 @@ export const pagesComponents = {
   "v-0dc13a4a": defineAsyncComponent(() => import(/* webpackChunkName: "v-0dc13a4a" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article/article7.html.vue")),
   // path: /posts/article/article8.html
   "v-0f7612e9": defineAsyncComponent(() => import(/* webpackChunkName: "v-0f7612e9" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article/article8.html.vue")),
+  // path: /posts/article/
+  "v-0d1b1fee": defineAsyncComponent(() => import(/* webpackChunkName: "v-0d1b1fee" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/posts/article/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/
@@ -77,4 +83,6 @@ export const pagesComponents = {
   "v-06bbb262": defineAsyncComponent(() => import(/* webpackChunkName: "v-06bbb262" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/tag/tag-a/index.html.vue")),
   // path: /tag/tag-b/
   "v-06bbb224": defineAsyncComponent(() => import(/* webpackChunkName: "v-06bbb224" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/tag/tag-b/index.html.vue")),
+  // path: /tag/%E6%94%B6%E8%97%8F/
+  "v-784186e8": defineAsyncComponent(() => import(/* webpackChunkName: "v-784186e8" */"F:/vuepress/hopeword/yuyueq/.vuepress/.temp/pages/tag/收藏/index.html.vue")),
 }

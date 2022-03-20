@@ -37,7 +37,7 @@ export const themeData = {
   "encrypt": {
     "config": {
       "/guide/encrypt.html": [
-        "$2a$10$gZ1MOqc6Q7cLW2WoLyNmcuAOxveConTpaHWXanYQLaclmSzdOm7DS"
+        "$2a$10$xBoRpUkCEDrFYLjxe3OrR.qAeYwVvOlg0vYslVo97t2JWq85F/NTy"
       ]
     }
   },
@@ -93,70 +93,33 @@ export const themeData = {
       "navbarIcon": true,
       "navbarAutoHide": "mobile",
       "hideSiteNameonMobile": true,
-      "sidebar": [
-        "",
-        "home",
-        "slide",
-        {
-          "text": "如何使用",
-          "icon": "creative",
-          "prefix": "guide/",
-          "link": "guide/",
-          "children": "structure"
-        },
-        {
-          "text": "文章",
-          "icon": "note",
-          "prefix": "posts/",
-          "children": [
-            {
-              "text": "文章 1-4",
-              "icon": "note",
-              "collapsable": true,
-              "prefix": "article/",
-              "children": [
-                "article1",
-                "article2",
-                "article3",
-                "article4"
-              ]
-            },
-            {
-              "text": "文章 5-12",
-              "icon": "note",
-              "children": [
-                {
-                  "text": "文章 5-8",
-                  "icon": "note",
-                  "collapsable": true,
-                  "prefix": "article/",
-                  "children": [
-                    "article5",
-                    "article6",
-                    "article7",
-                    "article8"
-                  ]
-                },
-                {
-                  "text": "文章 9-12",
-                  "icon": "note",
-                  "children": [
-                    "article9",
-                    "article10",
-                    "article11",
-                    "article12"
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
+      "sidebar": {
+        "/guide/": [
+          {
+            "text": "SQL",
+            "icon": "write",
+            "prefix": "2021/",
+            "children": [
+              "mysql"
+            ]
+          }
+        ],
+        "/posts/": [
+          {
+            "text": "个人经历",
+            "icon": "people",
+            "prefix": "article/",
+            "children": [
+              ""
+            ]
+          }
+        ]
+      },
       "sidebarIcon": true,
       "headingDepth": 2,
       "author": {
-        "name": "Mr.Hope",
-        "url": "https://mrhope.site"
+        "name": "Yuyueq",
+        "url": "https://www.yuyueq.cn"
       },
       "themeConfig": {
         "themeColor": {
@@ -165,79 +128,34 @@ export const themeData = {
           "green": "#3eaf7c",
           "orange": "#fb9b5f"
         },
-        "pure": true
+        "pure": true,
+        "sidebar": {
+          "/posts/article/": [
+            "",
+            "README",
+            "two"
+          ]
+        }
       },
       "logo": "/logo.svg",
       "repo": "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
       "docsDir": "demo/src",
       "navbar": [
         "/",
-        "/home",
         {
-          "text": "使用指南",
+          "text": "文章",
           "icon": "creative",
           "link": "/guide/"
         },
         {
-          "text": "博文",
-          "icon": "edit",
-          "prefix": "/posts/",
-          "children": [
-            {
-              "text": "文章 1-4",
-              "icon": "edit",
-              "prefix": "article/",
-              "children": [
-                {
-                  "text": "文章 1",
-                  "icon": "edit",
-                  "link": "article1"
-                },
-                {
-                  "text": "文章 2",
-                  "icon": "edit",
-                  "link": "article2"
-                },
-                "article3",
-                "article4"
-              ]
-            },
-            {
-              "text": "文章 5-12",
-              "icon": "edit",
-              "children": [
-                {
-                  "text": "文章 5",
-                  "icon": "edit",
-                  "link": "article/article5"
-                },
-                {
-                  "text": "文章 6",
-                  "icon": "edit",
-                  "link": "article/article6"
-                },
-                "article/article7",
-                "article/article8"
-              ]
-            },
-            {
-              "text": "文章 9",
-              "icon": "edit",
-              "link": "article9"
-            },
-            {
-              "text": "文章 10",
-              "icon": "edit",
-              "link": "article10"
-            },
-            "article11",
-            "article12"
-          ]
+          "text": "旧版文档",
+          "icon": "note",
+          "link": "https://yuyueq.github.io/simpleread"
         },
         {
-          "text": "主题文档",
-          "icon": "note",
-          "link": "https://vuepress-theme-hope.github.io/v2/zh/"
+          "text": "关于我",
+          "icon": "people",
+          "link": "/posts/article/"
         }
       ],
       "footer": "默认页脚",

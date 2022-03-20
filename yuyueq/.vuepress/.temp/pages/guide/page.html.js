@@ -25,7 +25,7 @@ export const data = {
         "meta",
         {
           "property": "og:url",
-          "content": "https://vuepress-theme-hope-v2-demo.mrhope.site/guide/page.html"
+          "content": "https://yuyueq.github.io/simpleread/guide/page.html"
         }
       ],
       [

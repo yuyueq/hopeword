@@ -1,23 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bec3932e-1c2f-4752-9a18-e0220e340b74" name="Default Changelist" comment="配置">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    <list default="true" id="bec3932e-1c2f-4752-9a18-e0220e340b74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-A33TZ3D7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-A33TZ3D7.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-KFTSRGG7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-KFTSRGG7.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-ZWHYDNPM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-ZWHYDNPM.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/MySQL实战45讲.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/MySQL实战45讲.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/mysql.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/mysql.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/MySQL实战45讲.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/MySQL实战45讲.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/index.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/index.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/index.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/index.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/guide/2021/mysql.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/guide/MySQL实战45讲.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuyueq/posts/article/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@giscus_vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@giscus_vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@giscus_vue.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@giscus_vue.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@mr-hope_vuepress-shared_lib_client.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@mr-hope_vuepress-shared_lib_client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@mr-hope_vuepress-shared_lib_client.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@mr-hope_vuepress-shared_lib_client.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vue_devtools-api.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vue_devtools-api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vue_devtools-api.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vue_devtools-api.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vuepress_shared.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vuepress_shared.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vuepress_shared.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vuepress_shared.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vueuse_core.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vueuse_core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vueuse_core.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@vueuse_core.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/bcryptjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/bcryptjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/bcryptjs.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/bcryptjs.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chart_js_auto.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chart_js_auto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chart_js_auto.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chart_js_auto.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-37N7BWCD.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-37N7BWCD.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-G4EQVEI2.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-G4EQVEI2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-G4EQVEI2.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-G4EQVEI2.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-M7VJCW7H.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-M7VJCW7H.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-RS2VVMDZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-RS2VVMDZ.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_localizedFormat.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_localizedFormat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_localizedFormat.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_localizedFormat.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_objectSupport.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_objectSupport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_objectSupport.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_objectSupport.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_timezone.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_timezone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_timezone.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_timezone.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_utc.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_utc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_utc.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_utc.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/flowchart_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/flowchart_js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/flowchart_js.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/flowchart_js.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/lodash_debounce.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/lodash_debounce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/lodash_debounce.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/lodash_debounce.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/lodash_throttle.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/lodash_throttle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/lodash_throttle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/lodash_throttle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/mermaid.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/mermaid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/mermaid.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/mermaid.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/nprogress.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/nprogress.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/nprogress.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/nprogress.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/photoswipe.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/photoswipe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/photoswipe.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/photoswipe.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/photoswipe_dist_photoswipe-ui-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/photoswipe_dist_photoswipe-ui-default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/photoswipe_dist_photoswipe-ui-default.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/photoswipe_dist_photoswipe-ui-default.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_dist_reveal_esm_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_dist_reveal_esm_js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_dist_reveal_esm_js.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_dist_reveal_esm_js.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_highlight_highlight_esm_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_highlight_highlight_esm_js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_highlight_highlight_esm_js.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_highlight_highlight_esm_js.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_markdown_markdown_esm_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_markdown_markdown_esm_js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_markdown_markdown_esm_js.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_markdown_markdown_esm_js.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_math_math_esm_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_math_math_esm_js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_math_math_esm_js.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_math_math_esm_js.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_notes_notes_esm_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_notes_notes_esm_js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_notes_notes_esm_js.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_notes_notes_esm_js.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_search_search_esm_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_search_search_esm_js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_search_search_esm_js.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_search_search_esm_js.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_zoom_zoom_esm_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_zoom_zoom_esm_js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_zoom_zoom_esm_js.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/reveal_js_plugin_zoom_zoom_esm_js.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/vue-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/vue-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/vue-router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/vue-router.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/vue.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/vue.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/blog/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/blog/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/blog/type.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/blog/type.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/clientAppEnhances.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/clientAppEnhances.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/clientAppRootComponents.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/clientAppRootComponents.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/clientAppSetups.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/clientAppSetups.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/layoutComponents.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/layoutComponents.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/pagesComponents.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/pagesComponents.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/pagesData.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/pagesData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/pagesRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/pagesRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/searchIndex.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/searchIndex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/siteData.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/siteData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/themeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/internal/themeData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/404.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/404.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/404.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/404.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/article/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/article/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/article/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/article/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/categorya/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/categorya/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/categorya/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/categorya/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/categoryb/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/categoryb/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/categoryb/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/categoryb/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/使用指南/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/使用指南/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/使用指南/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/使用指南/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/encrypted/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/encrypted/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/encrypted/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/encrypted/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/disable.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/disable.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/disable.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/disable.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/encrypt.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/encrypt.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/encrypt.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/encrypt.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/markdown.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/markdown.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/markdown.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/markdown.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/page.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/page.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/page.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/page.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/home.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/home.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/home.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/home.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article1.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article1.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article1.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article1.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article2.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article2.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article2.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article2.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article3.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article3.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article3.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article3.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article4.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article4.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article4.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article4.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article5.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article5.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article5.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article5.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article6.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article6.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article6.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article6.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article7.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article7.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article7.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article7.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article8.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article8.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article8.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article8.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article10.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article10.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article10.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article10.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article11.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article11.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article11.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article11.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article12.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article12.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article12.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article12.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article9.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article9.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article9.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article9.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/slide.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/slide.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/slide.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/slide.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/slides/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/slides/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/slides/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/slides/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/star/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/star/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/star/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/star/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/markdown/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/markdown/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/markdown/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/markdown/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/tag-a/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/tag-a/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/tag-a/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/tag-a/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/tag-b/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/tag-b/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/tag-b/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/tag-b/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/使用指南/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/使用指南/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/使用指南/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/使用指南/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/文章加密/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/文章加密/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/文章加密/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/文章加密/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/禁用/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/禁用/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/禁用/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/禁用/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/页面配置/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/页面配置/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/页面配置/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/页面配置/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/timeline/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/timeline/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/timeline/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/timeline/index.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-config.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-config.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-inject.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-inject.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-palette.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-palette.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/theme-hope/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/theme-hope/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/vite-root/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/vite-root/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/navbar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/navbar.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/sidebar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/sidebar.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/themeConfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/themeConfig.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +192,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -49,15 +221,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yuyueq/guide/2021" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.31494254" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\vuepress\hopeword\yuyueq\guide\2021" />
+      <recent name="F:\vuepress\hopeword\yuyueq\guide" />
+      <recent name="F:\vuepress\hopeword\yuyueq\posts" />
+      <recent name="F:\vuepress\hopeword\yuyueq\posts\article" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,7 +261,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647768329580</updated>
-      <workItem from="1647768331221" duration="2110000" />
+      <workItem from="1647768331221" duration="11529000" />
     </task>
     <task id="LOCAL-00001" summary="node modules">
       <created>1647769539029</created>
@@ -83,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647770511104</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="配置">
+      <created>1647770830343</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647770830343</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +307,9 @@
     <MESSAGE value="yuyueq" />
     <MESSAGE value="配置" />
     <option name="LAST_COMMIT_MESSAGE" value="配置" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
