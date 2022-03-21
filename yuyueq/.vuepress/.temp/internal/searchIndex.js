@@ -1865,6 +1865,102 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "一次Centos7下简单的Mysql安装记录",
+    "headers": [
+      {
+        "level": 2,
+        "title": "前言",
+        "slug": "前言",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "以rpm包的形式安装Mysql",
+        "slug": "以rpm包的形式安装mysql",
+        "children": [
+          {
+            "level": 3,
+            "title": "第一步：yum install wget -y",
+            "slug": "第一步-yum-install-wget-y",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "第二步: 以tar包形式拉取下载并进行解压",
+            "slug": "第二步-以tar包形式拉取下载并进行解压",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "第三步：安装",
+            "slug": "第三步-安装",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "第四步：启动mysql服务，并且查看服务状态",
+            "slug": "第四步-启动mysql服务-并且查看服务状态",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "第五步：查看Mysql默认密码",
+            "slug": "第五步-查看mysql默认密码",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "第六步：修改默认密码",
+            "slug": "第六步-修改默认密码",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "第七步：登录Mysql",
+            "slug": "第七步-登录mysql",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "最后:学会查看错误日志",
+            "slug": "最后-学会查看错误日志",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guide/2021/centosanzhuangmysql.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "🔥我常用的网站资源集合（长更！）",
+    "headers": [],
+    "path": "/guide/2021/changyongziyuan.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "🔥开发网站资源集合（长更！）",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Java",
+        "slug": "java",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "前端",
+        "slug": "前端",
+        "children": []
+      }
+    ],
+    "path": "/guide/2021/kaifaziyuan.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "MySQL实战45讲",
     "headers": [
       {
@@ -3410,7 +3506,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/guide/2021/mysql.html",
+    "path": "/guide/2021/mysqlshizhan.html",
     "pathLocale": "/",
     "extraFields": []
   },

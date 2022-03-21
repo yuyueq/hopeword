@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bec3932e-1c2f-4752-9a18-e0220e340b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-A33TZ3D7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-A33TZ3D7.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-KFTSRGG7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-KFTSRGG7.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-ZWHYDNPM.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-ZWHYDNPM.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/MySQL实战45讲.html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/MySQL实战45讲.html.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/mysql.html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/mysql.html.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/MySQL实战45讲.html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/MySQL实战45讲.html.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/index.html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/index.html.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/index.html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/index.html.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/guide/2021/mysql.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/guide/MySQL实战45讲.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuyueq/posts/article/README.md" afterDir="false" />
+    <list default="true" id="f319fe12-be10-4b86-8bd5-b6ac24d33946" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@giscus_vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@giscus_vue.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@giscus_vue.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/@giscus_vue.js.map" afterDir="false" />
@@ -37,14 +19,14 @@
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/bcryptjs.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/bcryptjs.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chart_js_auto.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chart_js_auto.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chart_js_auto.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chart_js_auto.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-37N7BWCD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-37N7BWCD.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-A33TZ3D7.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-A33TZ3D7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-A33TZ3D7.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-A33TZ3D7.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-G4EQVEI2.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-G4EQVEI2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-G4EQVEI2.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-G4EQVEI2.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-M7VJCW7H.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-M7VJCW7H.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-RS2VVMDZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-RS2VVMDZ.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-KFTSRGG7.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-KFTSRGG7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-KFTSRGG7.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-KFTSRGG7.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-ZWHYDNPM.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-ZWHYDNPM.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-ZWHYDNPM.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/chunk-ZWHYDNPM.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_localizedFormat.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.cache/dayjs_plugin_localizedFormat.js" afterDir="false" />
@@ -113,6 +95,10 @@
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/使用指南/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/category/使用指南/index.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/encrypted/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/encrypted/index.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/encrypted/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/encrypted/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/mysql.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/mysql.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/mysql.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/2021/mysql.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/MySQL实战45讲.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/MySQL实战45讲.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/MySQL实战45讲.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/MySQL实战45讲.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/disable.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/disable.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/disable.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/disable.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/encrypt.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/guide/encrypt.html.js" afterDir="false" />
@@ -143,6 +129,8 @@
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article7.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article7.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article8.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article8.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article8.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/article8.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article/index.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article10.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article10.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article10.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article10.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article11.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/posts/article11.html.js" afterDir="false" />
@@ -167,6 +155,8 @@
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/tag-b/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/tag-b/index.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/使用指南/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/使用指南/index.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/使用指南/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/使用指南/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/收藏/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/收藏/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/收藏/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/收藏/index.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/文章加密/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/文章加密/index.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/文章加密/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/文章加密/index.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/禁用/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/pages/tag/禁用/index.html.js" afterDir="false" />
@@ -179,12 +169,8 @@
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-inject.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-inject.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-palette.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-palette.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/sass-palette/hope-style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/theme-hope/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/theme-hope/sidebar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/vite-root/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/.temp/vite-root/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/navbar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/navbar.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/sidebar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/sidebar.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuyueq/.vuepress/themeConfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/.vuepress/themeConfig.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuyueq/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/yuyueq/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyueq/guide/2021/mysql.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,12 +207,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/yuyueq/guide/2021" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.31494254" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="D:\IDEA2021\IntelliJ IDEA 2021.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RebelAgentSelection">
@@ -234,6 +221,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA2021\IdeaProject\hopeword" />
       <recent name="F:\vuepress\hopeword\yuyueq\guide\2021" />
       <recent name="F:\vuepress\hopeword\yuyueq\guide" />
       <recent name="F:\vuepress\hopeword\yuyueq\posts" />
@@ -256,12 +244,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bec3932e-1c2f-4752-9a18-e0220e340b74" name="Default Changelist" comment="" />
+      <changelist id="" name="Default Changelist" comment="" />
       <created>1647768329580</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647768329580</updated>
       <workItem from="1647768331221" duration="11529000" />
+      <workItem from="1647858487258" duration="440000" />
     </task>
     <task id="LOCAL-00001" summary="node modules">
       <created>1647769539029</created>
@@ -284,7 +273,28 @@
       <option name="project" value="LOCAL" />
       <updated>1647770830343</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".gitignore">
+      <created>1647858586147</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647858586147</updated>
+    </task>
+    <task id="LOCAL-00005" summary="新增文章">
+      <created>1647858637214</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647858637214</updated>
+    </task>
+    <task id="LOCAL-00006" summary="bugfix">
+      <created>1647858911203</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647858911203</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,13 +310,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="node modules" />
     <MESSAGE value="yuyueq" />
     <MESSAGE value="配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="配置" />
+    <MESSAGE value=".gitignore" />
+    <MESSAGE value="新增文章" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="bugfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="bugfix" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

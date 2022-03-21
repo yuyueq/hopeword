@@ -37,7 +37,7 @@ export const themeData = {
   "encrypt": {
     "config": {
       "/guide/encrypt.html": [
-        "$2a$10$in/9nS/a2n0R..xo.MnzR.ZiPfhlol42zt5HJ2ZfafG3gXuNvi1xW"
+        "$2a$10$NrgunG7ieSiMIxbShWVyAOOpn/xXblx/pu37ek3JdHP5Y3x7rnyCW"
       ]
     }
   },
@@ -96,11 +96,31 @@ export const themeData = {
       "sidebar": {
         "/guide/": [
           {
-            "text": "SQL",
-            "icon": "write",
-            "prefix": "2021/",
+            "text": "开始吧",
+            "icon": "strong",
+            "prefix": "",
             "children": [
-              "mysql"
+              ""
+            ]
+          },
+          {
+            "text": "SQL",
+            "icon": "mysql",
+            "prefix": "2021/",
+            "collapsable": true,
+            "children": [
+              "mysqlshizhan",
+              "centosanzhuangmysql"
+            ]
+          },
+          {
+            "text": "资源",
+            "icon": "workingDirectory",
+            "prefix": "2021/",
+            "collapsable": true,
+            "children": [
+              "kaifaziyuan",
+              "changyongziyuan"
             ]
           }
         ],
@@ -123,10 +143,7 @@ export const themeData = {
       },
       "themeConfig": {
         "themeColor": {
-          "blue": "#2196f3",
-          "red": "#f26d6d",
-          "green": "#3eaf7c",
-          "orange": "#fb9b5f"
+          "blue": "#2196f3"
         },
         "pure": true,
         "sidebar": {
