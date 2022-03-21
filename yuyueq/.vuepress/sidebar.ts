@@ -13,6 +13,13 @@ export default defineSidebarConfig(
                 children: [""],
             },
             {
+                text: "Java",
+                icon: "java",
+                prefix: "2021/",
+                collapsable: true,
+                children: ["mysqlshizhan","centosanzhuangmysql"],
+            },
+            {
                 text: "SQL",
                 icon: "mysql",
                 prefix: "2021/",
