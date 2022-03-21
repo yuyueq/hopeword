@@ -99,5 +99,5 @@ workspace
 logs/*
 yuyueq/.vuepress/.temp/*
 yuyueq/.vuepress/.cache/*
-
+yuyueq/.vuepress/.temp/internal/themeData.js
 
