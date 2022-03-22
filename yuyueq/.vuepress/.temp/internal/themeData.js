@@ -13,7 +13,7 @@ export const themeData = {
   "encrypt": {
     "config": {
       "/guide/encrypt.html": [
-        "$2a$10$C3TSvyjBtsjS3xeqpTxIu.Y5XY0rGVjQbIbP0q5F2YZS6GNcEqrE2"
+        "$2a$10$PV0wEG6jS0TgblJTdj7UPezhzRqK/DWreYKrBSSiw/imR4NTI2t72"
       ]
     }
   },
@@ -103,11 +103,9 @@ export const themeData = {
         "url": "https://www.yuyueq.cn"
       },
       "themeConfig": {
-        "pure": true,
-        "lastUpdated": true,
-        "contributors": true
+        "pure": true
       },
-      "logo": "/logo.svg",
+      "logo": "/logo3.svg",
       "repo": "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
       "docsDir": "demo/src",
       "navbar": [

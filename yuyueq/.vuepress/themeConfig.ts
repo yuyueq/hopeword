@@ -12,17 +12,14 @@ export default defineThemeConfig({
 
   themeConfig: {
     pure:true,
-    lastUpdated: true,
-    contributors: true,
   },
   themeColor: {
     blue: "#2196f3",
-
   },
 
   iconPrefix: "iconfont icon-",
 
-  logo: "/logo.svg",
+  logo: "/logo3.svg",
 
   repo: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
 
@@ -77,6 +74,7 @@ export default defineThemeConfig({
       repoId: "R_kgDOG_Pt2A",
       category: "Announcements",
       categoryId: "DIC_kwDOG_Pt2M4COD69",
+      comment: false
     },
 
     mdEnhance: {
