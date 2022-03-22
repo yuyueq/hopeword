@@ -1,43 +1,19 @@
 export const themeData = {
   "blog": {
-    "description": "一个前端开发者",
-    "intro": "/intro.html",
+    "description": "一个后端开发者",
+    "intro": "/README.md",
     "medias": {
-      "Baidu": "https://example.com",
-      "Bitbucket": "https://example.com",
-      "Dingding": "https://example.com",
-      "Discord": "https://example.com",
-      "Dribbble": "https://example.com",
-      "Email": "https://example.com",
-      "Evernote": "https://example.com",
-      "Facebook": "https://example.com",
-      "Flipboard": "https://example.com",
-      "Gitee": "https://example.com",
-      "GitHub": "https://example.com",
-      "Gitlab": "https://example.com",
-      "Gmail": "https://example.com",
-      "Instagram": "https://example.com",
-      "Lines": "https://example.com",
-      "Linkedin": "https://example.com",
-      "Pinterest": "https://example.com",
-      "Pocket": "https://example.com",
-      "QQ": "https://example.com",
-      "Qzone": "https://example.com",
-      "Reddit": "https://example.com",
-      "Rss": "https://example.com",
-      "Steam": "https://example.com",
-      "Twitter": "https://example.com",
-      "Wechat": "https://example.com",
-      "Weibo": "https://example.com",
-      "Whatsapp": "https://example.com",
-      "Youtube": "https://example.com",
-      "Zhihu": "https://example.com"
+      "GitHub": "https://github.com/yuyueq",
+      "Gitee": "https://gitee.com/yuyueq",
+      "Dingding": "https://im.dingtalk.com/",
+      "Email": "https://3289705398@qq.com/",
+      "Gmail": "https://dwxfrank@gmail.com"
     }
   },
   "encrypt": {
     "config": {
       "/guide/encrypt.html": [
-        "$2a$10$MRO03/VO/tUIJ5Ex3Ozep.Kr6oGksNOIXl0ud.qAwrIaL5zmBIJBC"
+        "$2a$10$C3TSvyjBtsjS3xeqpTxIu.Y5XY0rGVjQbIbP0q5F2YZS6GNcEqrE2"
       ]
     }
   },
@@ -45,48 +21,20 @@ export const themeData = {
   "iconPrefix": "iconfont icon-",
   "darkmode": "auto-switch",
   "themeColor": {
-    "red": "#e74c3c",
-    "blue": "#3498db",
-    "green": "#3eaf7c",
-    "orange": "#f39c12",
-    "purple": "#8e44ad"
+    "blue": "#2196f3"
   },
   "fullscreen": true,
   "locales": {
     "/": {
       "blog": {
-        "description": "一个前端开发者",
-        "intro": "/intro.html",
+        "description": "一个后端开发者",
+        "intro": "/README.md",
         "medias": {
-          "Baidu": "https://example.com",
-          "Bitbucket": "https://example.com",
-          "Dingding": "https://example.com",
-          "Discord": "https://example.com",
-          "Dribbble": "https://example.com",
-          "Email": "https://example.com",
-          "Evernote": "https://example.com",
-          "Facebook": "https://example.com",
-          "Flipboard": "https://example.com",
-          "Gitee": "https://example.com",
-          "GitHub": "https://example.com",
-          "Gitlab": "https://example.com",
-          "Gmail": "https://example.com",
-          "Instagram": "https://example.com",
-          "Lines": "https://example.com",
-          "Linkedin": "https://example.com",
-          "Pinterest": "https://example.com",
-          "Pocket": "https://example.com",
-          "QQ": "https://example.com",
-          "Qzone": "https://example.com",
-          "Reddit": "https://example.com",
-          "Rss": "https://example.com",
-          "Steam": "https://example.com",
-          "Twitter": "https://example.com",
-          "Wechat": "https://example.com",
-          "Weibo": "https://example.com",
-          "Whatsapp": "https://example.com",
-          "Youtube": "https://example.com",
-          "Zhihu": "https://example.com"
+          "GitHub": "https://github.com/yuyueq",
+          "Gitee": "https://gitee.com/yuyueq",
+          "Dingding": "https://im.dingtalk.com/",
+          "Email": "https://3289705398@qq.com/",
+          "Gmail": "https://dwxfrank@gmail.com"
         }
       },
       "repoDisplay": true,
@@ -104,11 +52,24 @@ export const themeData = {
             ]
           },
           {
-            "text": "SQL",
-            "icon": "mysql",
-            "prefix": "2021/",
+            "text": "Java",
+            "icon": "java",
+            "prefix": "java/",
             "collapsable": true,
             "children": [
+              "hashmapjilu",
+              "mianshiwenti1",
+              "mianshiwenti2",
+              "mianshiwenti3"
+            ]
+          },
+          {
+            "text": "SQL",
+            "icon": "mysql",
+            "prefix": "sql/",
+            "collapsable": true,
+            "children": [
+              "sqlhanshuwenti",
               "mysqlshizhan",
               "centosanzhuangmysql"
             ]
@@ -116,7 +77,7 @@ export const themeData = {
           {
             "text": "资源",
             "icon": "workingDirectory",
-            "prefix": "2021/",
+            "prefix": "ziyuan/",
             "collapsable": true,
             "children": [
               "kaifaziyuan",
@@ -142,17 +103,9 @@ export const themeData = {
         "url": "https://www.yuyueq.cn"
       },
       "themeConfig": {
-        "themeColor": {
-          "blue": "#2196f3"
-        },
         "pure": true,
-        "sidebar": {
-          "/posts/article/": [
-            "",
-            "README",
-            "two"
-          ]
-        }
+        "lastUpdated": true,
+        "contributors": true
       },
       "logo": "/logo.svg",
       "repo": "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
@@ -183,6 +136,7 @@ export const themeData = {
         "Date",
         "Category",
         "Tag",
+        "Word",
         "ReadingTime"
       ],
       "lang": "zh-CN",

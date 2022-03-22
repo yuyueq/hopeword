@@ -1,5 +1,24 @@
+---
+index: 1
+title: 一次Centos7下简单的Mysql安装记录
+# 设置作者
+author: 余月七
+# 设置写作时间
+date: 2022-03-18
+# 一个页面可以有多个分类
+category:
+- Linux
+# 一个页面可以有多个标签
+tag:
+- centos7
+# 此页面会在文章列表置顶
+sticky: true
+# 此页面会出现在首页的文章板块中
+star: true
+# 你可以自定义页脚
+footer: 这是测试显示的页脚
+---
 
-# 一次Centos7下简单的Mysql安装记录
 
 ## 前言
 

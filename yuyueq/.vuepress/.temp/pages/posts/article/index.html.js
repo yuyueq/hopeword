@@ -10,15 +10,17 @@ export const data = {
     "author": "余月七",
     "date": "2022-03-18T00:00:00.000Z",
     "category": [
-      "使用指南"
+      "个人"
     ],
     "tag": [
-      "页面配置",
-      "使用指南"
+      "经历"
     ],
     "sticky": true,
     "star": true,
-    "footer": "这是测试显示的页脚",
+    "footer": "This website is served by GitHub Pages",
+    "copyright": false,
+    "lastUpdated": true,
+    "contributors": true,
     "summary": "Introduction 笔名：余月七 我毕业于甘肃一所普通的二本院校，计科专业，学习成绩很一般 在学校的时候，大二加入的实验室，说句实话，从那时候才开始接触电脑，也根本谈不上入计算机的门， 大二一年的成长让我渐渐的喜欢上了这个专业，进入实验室选的方向就是后端，现在才觉得“后端”这两字涵盖的内容太广了，只能说当时是在学Java。 大一那时候学的C，但并没有产",
     "head": [
       [
@@ -67,14 +69,7 @@ export const data = {
         "meta",
         {
           "property": "article:tag",
-          "content": "页面配置"
-        }
-      ],
-      [
-        "meta",
-        {
-          "property": "article:tag",
-          "content": "使用指南"
+          "content": "经历"
         }
       ],
       [

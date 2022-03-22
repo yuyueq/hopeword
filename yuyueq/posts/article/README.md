@@ -11,17 +11,19 @@ author: 余月七
 date: 2022-03-18
 # 一个页面可以有多个分类
 category:
-- 使用指南
+- 个人
 # 一个页面可以有多个标签
 tag:
-- 页面配置
-- 使用指南
+- 经历
 # 此页面会在文章列表置顶
 sticky: true
 # 此页面会出现在首页的文章板块中
 star: true
 # 你可以自定义页脚
-footer: 这是测试显示的页脚
+footer: This website is served by GitHub Pages
+copyright: false
+lastUpdated: true
+contributors: true
 ---
 
 ## Introduction

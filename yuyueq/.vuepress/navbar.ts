@@ -4,7 +4,7 @@ export default defineNavbarConfig([
   "/",
   { text: "文章", icon: "creative", link: "/guide/" },
 
-/*  {
+  /*{
     text: "博文",
     icon: "edit",
     prefix: "/posts/",
