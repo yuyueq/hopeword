@@ -45,6 +45,9 @@ const routeItems = [
   ["v-3a134560","/tag/%E5%8D%9A%E5%AE%A2/",{"title":"博客 标签","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/tag/博客/","/tag/%E5%8D%9A%E5%AE%A2/index.html"]],
   ["v-24d3c4d8","/tag/%E8%B5%84%E6%BA%90/",{"title":"资源 标签","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/tag/资源/","/tag/%E8%B5%84%E6%BA%90/index.html"]],
   ["v-148ac620","/tag/%E7%BB%8F%E5%8E%86/",{"title":"经历 标签","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/tag/经历/","/tag/%E7%BB%8F%E5%8E%86/index.html"]],
+  ["v-5d4c41e6","/guide/sql/",{"title":"SQL","type":"article","readingTime":{"minutes":0,"words":1},"excerpt":"SQL"},["/guide/sql/index.html","/guide/sql/README.md"]],
+  ["v-595c14e1","/guide/java/",{"title":"Java","type":"article","readingTime":{"minutes":0,"words":1},"excerpt":"Java"},["/guide/java/index.html","/guide/java/README.md"]],
+  ["v-622dfe6a","/guide/ziyuan/",{"title":"资源","type":"article","readingTime":{"minutes":0.01,"words":2},"excerpt":"资源"},["/guide/ziyuan/index.html","/guide/ziyuan/README.md"]],
 ]
 
 export const pagesRoutes = routeItems.reduce(

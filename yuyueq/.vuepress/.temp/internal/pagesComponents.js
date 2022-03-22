@@ -89,4 +89,10 @@ export const pagesComponents = {
   "v-24d3c4d8": defineAsyncComponent(() => import(/* webpackChunkName: "v-24d3c4d8" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/tag/资源/index.html.vue")),
   // path: /tag/%E7%BB%8F%E5%8E%86/
   "v-148ac620": defineAsyncComponent(() => import(/* webpackChunkName: "v-148ac620" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/tag/经历/index.html.vue")),
+  // path: /guide/sql/
+  "v-5d4c41e6": defineAsyncComponent(() => import(/* webpackChunkName: "v-5d4c41e6" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/sql/index.html.vue")),
+  // path: /guide/java/
+  "v-595c14e1": defineAsyncComponent(() => import(/* webpackChunkName: "v-595c14e1" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/java/index.html.vue")),
+  // path: /guide/ziyuan/
+  "v-622dfe6a": defineAsyncComponent(() => import(/* webpackChunkName: "v-622dfe6a" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/ziyuan/index.html.vue")),
 }
