@@ -25,16 +25,22 @@ export const pagesComponents = {
   "v-1600b672": defineAsyncComponent(() => import(/* webpackChunkName: "v-1600b672" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/java/mianshiwenti2.html.vue")),
   // path: /guide/java/mianshiwenti3.html
   "v-17b58f11": defineAsyncComponent(() => import(/* webpackChunkName: "v-17b58f11" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/java/mianshiwenti3.html.vue")),
+  // path: /guide/java/
+  "v-595c14e1": defineAsyncComponent(() => import(/* webpackChunkName: "v-595c14e1" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/java/index.html.vue")),
   // path: /guide/sql/centosanzhuangmysql.html
   "v-3b37eff0": defineAsyncComponent(() => import(/* webpackChunkName: "v-3b37eff0" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/sql/centosanzhuangmysql.html.vue")),
   // path: /guide/sql/mysqlshizhan.html
   "v-6ac291df": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ac291df" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/sql/mysqlshizhan.html.vue")),
+  // path: /guide/sql/
+  "v-5d4c41e6": defineAsyncComponent(() => import(/* webpackChunkName: "v-5d4c41e6" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/sql/index.html.vue")),
   // path: /guide/sql/sqlhanshuwenti.html
   "v-6ef07610": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ef07610" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/sql/sqlhanshuwenti.html.vue")),
   // path: /guide/ziyuan/changyongziyuan.html
   "v-7fb61af0": defineAsyncComponent(() => import(/* webpackChunkName: "v-7fb61af0" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/ziyuan/changyongziyuan.html.vue")),
   // path: /guide/ziyuan/kaifaziyuan.html
   "v-3d3c541e": defineAsyncComponent(() => import(/* webpackChunkName: "v-3d3c541e" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/ziyuan/kaifaziyuan.html.vue")),
+  // path: /guide/ziyuan/
+  "v-622dfe6a": defineAsyncComponent(() => import(/* webpackChunkName: "v-622dfe6a" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/ziyuan/index.html.vue")),
   // path: /posts/article/
   "v-0d1b1fee": defineAsyncComponent(() => import(/* webpackChunkName: "v-0d1b1fee" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/posts/article/index.html.vue")),
   // path: /404.html
@@ -89,10 +95,4 @@ export const pagesComponents = {
   "v-24d3c4d8": defineAsyncComponent(() => import(/* webpackChunkName: "v-24d3c4d8" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/tag/资源/index.html.vue")),
   // path: /tag/%E7%BB%8F%E5%8E%86/
   "v-148ac620": defineAsyncComponent(() => import(/* webpackChunkName: "v-148ac620" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/tag/经历/index.html.vue")),
-  // path: /guide/sql/
-  "v-5d4c41e6": defineAsyncComponent(() => import(/* webpackChunkName: "v-5d4c41e6" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/sql/index.html.vue")),
-  // path: /guide/java/
-  "v-595c14e1": defineAsyncComponent(() => import(/* webpackChunkName: "v-595c14e1" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/java/index.html.vue")),
-  // path: /guide/ziyuan/
-  "v-622dfe6a": defineAsyncComponent(() => import(/* webpackChunkName: "v-622dfe6a" */"D:/IDEA2021/IdeaProject/hopeword/yuyueq/.vuepress/.temp/pages/guide/ziyuan/index.html.vue")),
 }

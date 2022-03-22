@@ -61,7 +61,7 @@ export default defineThemeConfig({
     },
     search: {
       locales: {
-        "/zh/": {
+        "/": {
           placeholder: "搜索"
         },
       },

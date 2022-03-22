@@ -761,6 +761,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Java",
+    "headers": [],
+    "path": "/guide/java/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "一次Centos7下简单的Mysql安装记录",
     "headers": [
       {
@@ -2380,6 +2387,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "SQL",
+    "headers": [],
+    "path": "/guide/sql/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "对于一次SQL函数和优化的问题记录",
     "headers": [
       {
@@ -2546,6 +2560,13 @@ export const searchIndex = [
       }
     ],
     "path": "/guide/ziyuan/kaifaziyuan.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "资源",
+    "headers": [],
+    "path": "/guide/ziyuan/",
     "pathLocale": "/",
     "extraFields": []
   },
